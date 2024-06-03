@@ -42,4 +42,3 @@ Main.py     This file contains the required test cases.
 
 Remember to verify the Pytest libray in order to run the test cases properly.
 
-## [Urban Routes Test Checklist](https://docs.google.com/spreadsheets/d/1MMni-gecUXFTzBP6Q6ReykiM-AhpKyG6/edit?usp=drive_link&ouid=112711575793272570934&rtpof=true&sd=true)
